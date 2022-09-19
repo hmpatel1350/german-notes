@@ -1,11 +1,11 @@
-Links: [[Phrases]]
+Links: [[Verbs]]
 
 # Pronouns:
 Singular | Plural
------ | -----
+-- | --
 ich <br> *I*|wir <br> *we*
 du <br> *you* | ihr <br>*y'all*
-er, sie, es<br>*he, she, it*| Sie, sie <br> *they*
+er, Sie, es<br>*he, she, it*| sie <br> *they*
 
 <u>Common Gender-Neutral Pronouns</u>:
 - xier
@@ -23,4 +23,6 @@ er, sie, es<br>*he, she, it*| Sie, sie <br> *they*
 - Stem of the verb ends in a hissing sound (ß, ss, x, tz)
 ![[Screen Shot 2022-08-26 at 1.06.54 AM.png|200]]
 - Sein
-![[Screen Shot 2022-08-30 at 12.27.27 AM.png|300]]
+![[Screen Shot 2022-08-30 at 12.27.27 AM.png|300]]!
+- Haben
+![[Screen Shot 2022-09-11 at 8.17.09 PM.png]]

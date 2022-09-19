@@ -2,6 +2,7 @@ Links: [[Vocab]]
 
 ## Guides:
 - [[Units]]
+- [[Time]]
 
 # Writing Numbers
 Swapped , and . in German numbers (1,000.1 → 1.000,1)

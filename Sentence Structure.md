@@ -1,5 +1,9 @@
 Links: [[Phrases]]
 
+## Guides:
+- [[Articles]]
+- [[Verbs]]
+
 ## Key:
 - `Highlighted`: Conjugated Verb
 - **Bold**: Subject
@@ -24,7 +28,7 @@ Links: [[Phrases]]
 	- *Wie* `heißt` **du**?
 	- *Was* `kaufen` **deine Kinder**?
 	- *Wie alt* `seid` **ihr**?
-
+ 
 # Satzfrag (Yes/No Question):
 ###### Questions with Ja/Nein answers
 - First position "empty" (no fragenwort)
@@ -32,5 +36,11 @@ Links: [[Phrases]]
 - Subject after conjugated verb.
 
 <u>Examples</u>:
-- `Wohnst` **du** in Belgien?
-- `Trinkt` **sie** gern Mich?
+	- `Wohnst` **du** in Belgien?
+	- `Trinkt` **sie** gern Mich?
+
+# Nicht (Negation):
+![[Pasted image 20220831212342.png|600]]
+
+# Gern/Gerne (Like...):
+![[Pasted image 20220831222710.png|600]]
